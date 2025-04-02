@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "general": {
+    "serverName": "MaViBra's RP"
+  },
+  "server": {
+    "dataPath": "/home/fivem/txData/QBCoreFramework_ED6287.base/"
+  }
+}
