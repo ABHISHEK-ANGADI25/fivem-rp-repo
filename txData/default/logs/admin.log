@@ -1,0 +1,18 @@
+================================================================
+======== txAdmin v8.0.1 atop fxserver 13943 Starting - 4/2/2025, 4:04:37 PM
+================================================================
+[16:07:25][Abhishek_Angadi] created admins file
+[16:09:13][Abhishek_Angadi] Config changes: general.serverName
+[16:09:13][Abhishek_Angadi] Changing global settings via setup stepper and started Deployer.
+[16:09:24][Abhishek_Angadi] Setting recipe.
+[16:12:12][Abhishek_Angadi] Running recipe.
+================================================================
+======== txAdmin v8.0.1 atop fxserver 13943 Starting - 4/2/2025, 4:14:22 PM
+================================================================
+[16:14:41][Abhishek_Angadi] logged in from 49.37.243.91 via cfxre
+[16:15:09][Abhishek_Angadi] Config changes: 
+[16:15:09][Abhishek_Angadi] Changing global settings via setup stepper and started Deployer.
+[16:15:11][Abhishek_Angadi] Setting recipe.
+[16:16:59][Abhishek_Angadi] Running recipe.
+[16:22:30][Abhishek_Angadi] Config changes: server.dataPath
+[16:22:30][Abhishek_Angadi] Completed and committed server deploy.
